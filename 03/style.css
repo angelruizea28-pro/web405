@@ -1,0 +1,26 @@
+.fondo{
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(63, 0, 199, 1) 100%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    transition: all 2s ease;
+}
+
+#figura{
+    display: block;
+    background: black;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,4 +1,4 @@
 .fondo{
-    background: #3F5EFB;
-    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(63, 0, 199, 1)100%);
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgb(79, 10, 239) 0%, rgba(77, 54, 247, 0.81) 65%, rgb(28, 3, 167) 100%);
 }
